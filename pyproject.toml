@@ -16,5 +16,5 @@ features = ["pyo3/extension-module"]
 
 [dependency-groups]
 dev = [
-    "pytest==7",
+    "pytest==7.4.4",
 ]
